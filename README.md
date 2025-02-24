@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a student studying in Information Technology<br>🌱 I’m currently learning Web Development, COBOL Programming, et<br>💬 Can lock in if I wanted to.<br>⚡ Lazy, Chill.
+🔭 I’m a student studying in Information Technology<br>🌱 I’m currently learning Web Development, COBOL Programming, et<br>💬 Can lock in if I wanted to.<br>⚡ Chill, Locked in.
 
 
 # 💻 Tech Stack:
